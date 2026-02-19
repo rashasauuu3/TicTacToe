@@ -20,10 +20,11 @@ A sophisticated Tic Tac Toe application built with Flutter, focusing on high-qua
 
 This project serves as a practical application of the following Flutter concepts:
 
-### 1. Animations (The Heart of the UI)
-* **Implicit Animations**: Used for smooth transitions between theme changes and card state updates using `AnimatedOpacity`, `AnimatedScale`, and `AnimatedPadding`.
-* **Explicit Animations**: Implementation of `AnimationController` and `CurvedAnimation` for the winning sequence and custom gestures.
-* **Visual Feedback**: Utilizing `Tween` animations to create scaling effects when a player marks a cell.
+### 1. Animations (The Heart of the UI) 
+* **Implicit Animations**.
+* **Explicit Animations**.
+* * **Thrid Party packages**:.
+
 
 ### 2. UI/UX & Theming
 * **Responsive Layout**: Built to look great on various screen sizes using `LayoutBuilder`.
@@ -44,26 +45,4 @@ This project serves as a practical application of the following Flutter concepts
 
 ---
 
-## ⚙️ Getting Started
 
-1.  **Clone the repository**:
-    ```bash
-    git clone [https://github.com/your-username/tic-tac-toe-flutter.git](https://github.com/your-username/tic-tac-toe-flutter.git)
-    ```
-2.  **Install dependencies**:
-    ```bash
-    flutter pub get
-    ```
-3.  **Run the app**:
-    ```bash
-    flutter run
-    ```
-
----
-
-## 🎯 Learning Path
-This project fulfills the requirements of mastering **Core Animation Types** and **Theming**, serving as a stepping stone toward building a full **Animated Onboarding Experience**.
-
----
-
-**Next Step:** Would you like me to provide the code snippet for the **Win Celebration** animation using `AnimationController`?
