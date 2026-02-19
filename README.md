@@ -38,8 +38,8 @@ This project serves as a practical application of the following Flutter concepts
 
 | Feature | Preview |
 | :--- | :--- |
-| **Dark Mode & Win State** | *[Insert GIF/Image Here]* |
-| **Light Mode ** | *[Insert GIF/Image Here]* |
+| **Dark Mode & Win State** | |
+| **Light Mode ** |  |
 | **Interactive Card Clicked ** |  |
 
 ---
